@@ -2,7 +2,7 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Hani Elsari**.\
+Perkenalkan nama saya **Hani Elsari**.
 
-Saya seorang **Backend Developer**\
+Saya seorang **Backend Developer**
 
